@@ -70,3 +70,12 @@ button {
 .containerCardapio div {
   margin-top: 1rem;
 }
+
+@media (max-width: 414px) {
+  .container {
+    width: 90%;
+  }
+  .containerCardapio{
+    width: 90%;
+  }
+}
